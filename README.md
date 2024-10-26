@@ -15,3 +15,9 @@ Pengguna diminta untuk memasukkan tiga bilangan satu per satu. Nilai yang dimasu
 -else: Jika kedua kondisi di atas salah, maka c yang dianggap sebagai bilangan terbesar.
 
 3. Output
+   
+![ss hasil flowchart pertama](https://github.com/user-attachments/assets/ff5154f6-3819-4dfc-ba25-f92684ce732a)
+
+# 2.) Buat codingan dari flowchart yang menentukan bilangan terbesar dari N bilangan yang diinputkan. untuk menentukan jumlah N, berikan masukkan angka 0
+
+
