@@ -45,6 +45,14 @@ Pengguna diminta untuk memasukkan tiga bilangan satu per satu. Nilai yang dimasu
   
 5. Hasil Output  print(f"bilangan terbesar adalah: {terbesar}")
 
+   ![ss hasil flowchart kedua](https://github.com/user-attachments/assets/e6792381-ba40-48c2-89c4-9241e68bfcaa)
+
+   - Setelah semua bilangan dimasukkan dan dibandingkan, program akan mencetak bilangan terbesar yang ditemukan.
+  
+6. Pemanggilan Fungsi  cari_terbesar_dari_n()
+
+   - Terakhir, fungsi cari_terbesar_dari_n() dipanggil untuk menjalankan program.
+
    
 
 
