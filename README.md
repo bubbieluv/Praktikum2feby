@@ -1,5 +1,7 @@
 # Praktikum2feby
 # 1.) Buat codingan dari flowchart yang menentukan bilangan terbesar dari 3 bilangan yang diinputkan
+berikut adalah flowchart nya
+![flowchart 1](https://github.com/user-attachments/assets/58fa9350-bf8a-42dc-b1bd-dfd2531bfa67)
 ![ss codingan flowchart pertama](https://github.com/user-attachments/assets/3b1fa833-155e-46d9-9bfe-47ed22fc0c0d)
 
 1. Input bilangan
