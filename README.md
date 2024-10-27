@@ -1,6 +1,6 @@
-# Praktikum2feby
+# Praktikum 3 feby
 # 1.) Buat codingan dari flowchart yang menentukan bilangan terbesar dari 3 bilangan yang diinputkan
-berikut adalah flowchart nya
+Berikut adalah flowchart nya
 ![flowchart 1](https://github.com/user-attachments/assets/58fa9350-bf8a-42dc-b1bd-dfd2531bfa67)
 ![ss codingan flowchart pertama](https://github.com/user-attachments/assets/3b1fa833-155e-46d9-9bfe-47ed22fc0c0d)
 
@@ -21,7 +21,8 @@ Pengguna diminta untuk memasukkan tiga bilangan satu per satu. Nilai yang dimasu
 ![ss hasil flowchart pertama](https://github.com/user-attachments/assets/ff5154f6-3819-4dfc-ba25-f92684ce732a)
 
 # 2.) Buat codingan dari flowchart yang menentukan bilangan terbesar dari N bilangan yang diinputkan. untuk menentukan jumlah N, berikan masukkan angka 0
-
+Berikut adalah flowchart nya
+![flowchart 2](https://github.com/user-attachments/assets/1c718c70-aec9-4f29-a92c-f1e6ed0088d7)
 ![ss codingan flowchart kedua](https://github.com/user-attachments/assets/e6f523af-5b63-44cf-87e3-a3bbdbf3f74d)
 
 1. Inisialisasi Variabel  terbesar = float('-inf')
